@@ -1,6 +1,6 @@
 # Custom React Accordion
 
-![accordion screenshot](accordion-app.png)
+![accordion screenshot](  )
 
 **Component Brief:** 
 - The first item of the accordion should be active by default. 
